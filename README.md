@@ -123,8 +123,10 @@ You are required to submit BOTH of the following for review:
 ## 3 Walktrough Videos: Social Network API
 
 ## Walktrough Videos 1:
+https://drive.google.com/file/d/1WOTvEBl2QW5M_ECXZBO977nb5OnaWlSe/view
 
 ## Walktrough Videos 2:
+https://drive.google.com/file/d/1DrC5Ub3DEyAjL1bREt5sDr5R8GythtZ6/view
 
 ## Walktrough Videos 3:
 
