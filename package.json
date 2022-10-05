@@ -1,0 +1,22 @@
+{
+    "name": "socialnetworkapi",
+    "version": "1.0.0",
+    "description": "build an API for a social network web application where users can share their thoughts, react to friends thoughts, and create a friend list",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bl-engineer/homework18"
+    },
+    "author": "Bocar Ly",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.1",
+      "moment": "^2.29.4",
+      "mongoose": "^6.6.1"
+    }
+  }
+  
