@@ -129,6 +129,7 @@ https://drive.google.com/file/d/1WOTvEBl2QW5M_ECXZBO977nb5OnaWlSe/view
 https://drive.google.com/file/d/1DrC5Ub3DEyAjL1bREt5sDr5R8GythtZ6/view
 
 ## Walktrough Videos 3:
+https://drive.google.com/file/d/12KB09bKJnew9ZxymYJ2HG7e7xt8b147f/view
 
 ---
 © Done by: Bocar Ly
