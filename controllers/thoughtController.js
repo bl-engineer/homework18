@@ -22,7 +22,7 @@ module.exports = {
       .then((thought) => {
         return User.findOneAndUpdate(
           { _id: req.body.userId },
-          { $addToSet: { thoughts: thought._id } },
+          { $push: { thoughts: thought._id } },
           { new: true }
         );
       })
@@ -97,7 +97,7 @@ module.exports = {
   removeReaction(req, res) {
     Thought.findOneAndUpdate(
       { _id: req.params.thoughtId },
-      { $pull: { reactions: req.params.reactionId } },
+      { $pull: { reactions: { reactionId: req.params.reactionId } }},
       { runValidators: true, new: true }
     )
       .then((thought) =>
