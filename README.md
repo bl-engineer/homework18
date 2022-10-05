@@ -96,23 +96,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 * `DELETE` to pull and remove a reaction by the reaction's `reactionId` value
 
-### TASK:
-
-* A walkthrough video that demonstrates the functionality of the social media API must be submitted, and a link to the video should be included in your README file.
-
-  * The walkthrough video must show all of the technical acceptance criteria being met.
-
-  * The walkthrough video must demonstrate how to start the application’s server.
-
-  * The walkthrough video must demonstrate GET routes for all users and all thoughts being tested in Insomnia.
-
-  * The walkthrough video must demonstrate GET routes for a single user and a single thought being tested in Insomnia.
-
-  * The walkthrough video must demonstrate POST, PUT, and DELETE routes for users and thoughts being tested in Insomnia.
-
-  * Walkthrough video must demonstrate POST and DELETE routes for a user’s friend list being tested in Insomnia.
-
-  * Walkthrough video must demonstrate POST and DELETE routes for reactions to thoughts being tested in Insomnia.
 
 ## Review
 
@@ -122,7 +105,7 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-# Random Screenshots of Result: Social Network API
+## Random Screenshots of Result: Social Network API
 
 <img width="2152" alt="Screen Shot 2022-10-05 at 5 16 43 AM" src="https://user-images.githubusercontent.com/15242022/194029080-0b2e46f9-4dd2-426d-9964-682c8478359a.png">
 
@@ -137,13 +120,13 @@ You are required to submit BOTH of the following for review:
 <img width="2141" alt="Screen Shot 2022-10-05 at 5 21 34 AM" src="https://user-images.githubusercontent.com/15242022/194029623-21a7c9b7-18cd-4034-9f82-5faa488457a1.png">
 
 
-# 3 Walktrough Videos: Social Network API
+## 3 Walktrough Videos: Social Network API
 
-# Walktrough Videos 1:
+## Walktrough Videos 1:
 
-# Walktrough Videos 2:
+## Walktrough Videos 2:
 
-# Walktrough Videos 3:
+## Walktrough Videos 3:
 
 ---
 © Done by: Bocar Ly
